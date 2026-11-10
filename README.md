@@ -1,36 +1,47 @@
-# Awesome Bug Tracking & Issue Management
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Bug Tracking &amp; Issue Management" width="100%" />
+</p>
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![Trackers](https://img.shields.io/badge/category-issue--tracking-blue.svg)](https://github.com/ishandutta2007/Awesome-Bug-Tracking-Issue-Management)
-[![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
+# 🚀 Awesome Bug Tracking & Issue Management
 
-> A curated list of leading **SaaS platforms** and top **open-source GitHub projects** for **Bug Tracking**, **Defect Tracking**, and **Issue Management** across modern software engineering workflows.
+<p align="left">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://awesome.re/badge.svg" alt="Awesome List"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Bug-Tracking-Issue-Management"><img src="https://img.shields.io/badge/category-issue--tracking-blue.svg" alt="Category"/></a>
+  <a href="http://creativecommons.org/publicdomain/zero/1.0/"><img src="https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg" alt="License: CC0-1.0"/></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
+
+> 🎯 A curated list of leading **SaaS platforms** and top **open-source GitHub projects** for **Bug Tracking**, **Defect Tracking**, and **Issue Management** across modern software engineering workflows.
 
 These tools help development, QA, and DevOps teams capture, triage, prioritize, track, and resolve software defects, bugs, and product issues across the software development lifecycle (SDLC)—ranging from lightweight ticket logs to enterprise-grade agile sprint planning and cross-team traceability.
 
 ---
 
-## Table of Contents
-- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
-- [SaaS & Hosted Platforms](#saas--hosted-platforms)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [Selection Guide: How to Choose](#selection-guide-how-to-choose)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer & License](#disclaimer--license)
+## 📑 Table of Contents
+- [📊 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [☁️ SaaS & Hosted Platforms](#️-saas--hosted-platforms)
+- [💻 Open-Source GitHub Projects](#-open-source-github-projects)
+- [🧭 Selection Guide: How to Choose](#-selection-guide-how-to-choose)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support](#-support)
+- [📈 Star History](#-star-history)
+- [📜 Disclaimer & License](#-disclaimer--license)
 
 ---
 
-## Sector Overview & Market Dynamics
+## 📊 Sector Overview & Market Dynamics
 
 The global issue and bug tracking software market is estimated at **$1.6 billion to over $5 billion**, expanding at a compound annual growth rate (CAGR) between **10% and 17%**. The sector displays a hybrid market structure: **highly concentrated** at the enterprise tier dominated by ecosystem incumbents (Microsoft/GitHub, Atlassian Jira, and ServiceNow), yet **moderately-to-highly fragmented** across SMBs, startups, and open-source communities where modern keyboard-centric disruptors (Linear, Plane) and specialized self-hosted ticketing engines compete actively for developer workflows.
 
 ---
 
-## SaaS & Hosted Platforms
+## ☁️ SaaS & Hosted Platforms
 
 A comprehensive comparison of the top SaaS bug tracking and issue management products, sorted descending by company size (market valuation or annual revenue run-rate).
 
-| Product | Company Size (Valuation / Revenue) | Starting Paid Pricing | Free Tier Limits / Trial Limits | Key Highlights & Primary Focus |
+| Product | 🏢 Company Size (Valuation / Revenue) | 💳 Starting Paid Pricing | 🎁 Free Tier Limits / Trial Limits | 🔍 Key Highlights & Primary Focus |
 |:---|:---|:---|:---|:---|
 | **[GitHub Issues](https://github.com/features/issues)** | ~$3.9T Market Cap *(Parent: Microsoft)* | $4.00 / user / month *(Team plan)* | **Free forever plan**: Unlimited users, unlimited public & private repositories; 2,000 GitHub Actions CI/CD min/month, 500 MB package storage; basic project boards and issue triage. | Native developer-first issue tracking embedded within Git repositories; automatic closing via commits, PR links, and sub-issues. |
 | **[Jira Software](https://www.atlassian.com/software/jira)** | ~$38.5B Market Cap *(Atlassian)* | $9.70 / user / month *(Standard plan, monthly)* | **Free forever plan**: Up to 10 users max per site, 2 GB file storage, 100–150 automation rule runs/month, 100 email notifications/day; basic Scrum & Kanban boards (no role customization or audit logs). | Industry-standard enterprise agile issue and project tracking with highly configurable custom workflows and rich Marketplace plugin ecosystem. |
@@ -42,11 +53,11 @@ A comprehensive comparison of the top SaaS bug tracking and issue management pro
 
 ---
 
-## Open-Source GitHub Projects
+## 💻 Open-Source GitHub Projects
 
 Explore the top self-hosted and open-source bug trackers, issue management platforms, and Jira/Linear alternatives. Sorted descending by GitHub star count.
 
-| Project | Stars | Primary Stack | Description & Use Case |
+| Project | ⭐ Stars | 🛠️ Primary Stack | 📝 Description & Use Case |
 |:---|:---:|:---|:---|
 | **[Plane](https://github.com/makeplane/plane)** | [![GitHub stars](https://img.shields.io/github/stars/makeplane/plane?style=social&color=white)](https://github.com/makeplane/plane/stargazers) | TypeScript, Python, Next.js | Modern open-source Jira and Linear alternative; features cycles, modules, roadmaps, rich-text pages, Docker deployment, and bidirectional GitHub sync. |
 | **[Gitea](https://github.com/go-gitea/gitea)** | [![GitHub stars](https://img.shields.io/github/stars/go-gitea/gitea?style=social&color=white)](https://github.com/go-gitea/gitea/stargazers) | Go, Vue | Lightweight, self-hosted all-in-one Git software development platform with built-in issue tracking, milestones, labels, branch locks, and kanban boards. |
@@ -70,16 +81,16 @@ Explore the top self-hosted and open-source bug trackers, issue management platf
 
 ---
 
-## Selection Guide: How to Choose
+## 🧭 Selection Guide: How to Choose
 
-- **For Modern Software Startups**: Choose **[Linear](https://linear.app/)** (SaaS) or **[Plane](https://github.com/makeplane/plane)** (Open-Source) for rapid, keyboard-first issue triage and sprint planning.
-- **For Enterprise Agile & Complex Audits**: Choose **[Jira Software](https://www.atlassian.com/software/jira)** (SaaS) or **[GitLab](https://github.com/gitlabhq/gitlabhq)** / **[OpenProject](https://github.com/opf/openproject)** (Self-Hosted) for complete auditability, role permissions, and customized workflows.
-- **For Git-Centric & Code-First Tracking**: Use **[GitHub Issues](https://github.com/features/issues)** (SaaS) or **[Gitea](https://github.com/go-gitea/gitea)** (Open-Source) to connect issue lifecycles directly with pull requests, releases, and CI/CD runs.
-- **For Dedicated Support & Defect Ticketing**: Deploy **[Zammad](https://github.com/zammad/zammad)**, **[FreeScout](https://github.com/freescout-help-desk/freescout)**, or **[YouTrack](https://www.jetbrains.com/youtrack/)**.
+- ⚡ **For Modern Software Startups**: Choose **[Linear](https://linear.app/)** (SaaS) or **[Plane](https://github.com/makeplane/plane)** (Open-Source) for rapid, keyboard-first issue triage and sprint planning.
+- 🏢 **For Enterprise Agile & Complex Audits**: Choose **[Jira Software](https://www.atlassian.com/software/jira)** (SaaS) or **[GitLab](https://github.com/gitlabhq/gitlabhq)** / **[OpenProject](https://github.com/opf/openproject)** (Self-Hosted) for complete auditability, role permissions, and customized workflows.
+- 🐙 **For Git-Centric & Code-First Tracking**: Use **[GitHub Issues](https://github.com/features/issues)** (SaaS) or **[Gitea](https://github.com/go-gitea/gitea)** (Open-Source) to connect issue lifecycles directly with pull requests, releases, and CI/CD runs.
+- 🎧 **For Dedicated Support & Defect Ticketing**: Deploy **[Zammad](https://github.com/zammad/zammad)**, **[FreeScout](https://github.com/freescout-help-desk/freescout)**, or **[YouTrack](https://www.jetbrains.com/youtrack/)**.
 
 ---
 
-## How to Contribute
+## 🤝 How to Contribute
 
 Contributions are warmly welcomed! To suggest a new tool or update existing information:
 
@@ -91,7 +102,23 @@ Contributions are warmly welcomed! To suggest a new tool or update existing info
 
 ---
 
-## Disclaimer & License
+## 💖 Support
+
+Thank you for exploring and using this repository! If this curated guide helps your team optimize bug tracking and issue management workflows, please consider supporting the project:
+
+- ⭐ **Star this repository** to help others discover it.
+- 🍴 **Fork and contribute** your favorite defect tracking tools and updates.
+- 📢 **Share with peers**, developers, and QA squads across social networks and technical communities.
+- ☕ **Buy a coffee / Sponsor**: If you appreciate this work, consider sponsoring via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
+
+---
+
+##  Star History
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Bug-Tracking-Issue-Management&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Bug-Tracking-Issue-Management&type=date&legend=top-left)
+
+---
+
+## 📜 Disclaimer & License
 
 - This repository is a community-curated directory intended for research and educational purposes. All product names, logos, and brands are property of their respective owners.
 - Distributed under the [Creative Commons Zero v1.0 Universal](LICENSE) (CC0 1.0) Public Domain Dedication.
