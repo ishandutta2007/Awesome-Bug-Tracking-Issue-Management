@@ -1,6 +1,6 @@
 # Awesome-Bug-Tracking-Issue-Management
 
-# Top Bug Tracking & Issue Management Ecosystem
+## Top Bug Tracking & Issue Management Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Defect Tracking, Agile Issue Workflows & Cross-Team Collaboration*  
